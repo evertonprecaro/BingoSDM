@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Bingo SDM</string>
+    <string name="bingo_ainda_nao_comecou">Bingo ainda não começou</string>
+    <string name="acabaram_as_bolas">Fim de jogo, acabaram as bolas do bingo</string>
+    <string name="resultado">resultado</string>
+    <string name="pressione_o_botao_para_sortear_uma_bola_do_bingo">Pressione o botão para sortear uma bola do bingo</string>
+    <string name="Pressione_o_botao_sortear_para_iniciar_novo_jogo">Pressione o botão sortear para começar novo jogo</string>
+</resources>
